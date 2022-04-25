@@ -168,6 +168,7 @@ def difficulty_menu():
                 pygame.quit()
 
             if event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
+                MENU_SELECT_SOUND.play()
                 main_menu()
 
             if event.type == pygame.KEYDOWN and event.key == pygame.K_DOWN and pos_num < 5:
