@@ -19,3 +19,4 @@ Extended features include:
 This was built as a 1-day project while learning pygame including the additional features.
 
 # Screenshots:
+<img href="https://github.com/oron-sinaa/Retro-Beam_game/blob/main/Screenshots/Screenshot%20(1).png">
