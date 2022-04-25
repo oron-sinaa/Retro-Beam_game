@@ -18,6 +18,10 @@ Extended features include:
 
 This was built as a 1-day project while learning pygame including the additional features.
 
+<h2>Run instructions (without using venv</h2>
+pip install path/to/requirements.txt
+python main.py
+
 # Screenshots:
 <img alt="alt_text" width="400px" src="https://github.com/oron-sinaa/Retro-Beam_game/blob/main/Screenshots/Screenshot%20(1).png" />
 <img alt="alt_text" width="400px" src="https://github.com/oron-sinaa/Retro-Beam_game/blob/main/Screenshots/Screenshot%20(2).png" />
