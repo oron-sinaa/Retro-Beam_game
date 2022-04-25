@@ -17,3 +17,5 @@ Extended features include:
   5. Some added/changed sound effects
 
 This was built as a 1-day project while learning pygame including the additional features.
+
+<h3>Screenshots:</h3>
