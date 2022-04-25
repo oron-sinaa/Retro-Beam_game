@@ -1,4 +1,4 @@
-# Retro-Beam_game
+# Retro Beam (game)
 
 This is an extended version of the "Pygame in 90 Minutes - For Beginners" by Tech with Tim (https://www.youtube.com/watch?v=jO6qQDNa2UY&t=4542s).
 
@@ -18,4 +18,4 @@ Extended features include:
 
 This was built as a 1-day project while learning pygame including the additional features.
 
-<h3>Screenshots:</h3>
+<h3><u>SCREENSHOTS:</u></h3>
