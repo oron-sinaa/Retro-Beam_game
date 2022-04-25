@@ -18,7 +18,7 @@ Extended features include:
 
 This was built as a 1-day project while learning pygame including the additional features.
 
-<h2>Run instructions (without using venv</h2>
+<h2>Run instructions (without using venv)</h2>
 pip install path/to/requirements.txt
 python main.py
 
