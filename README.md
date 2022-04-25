@@ -18,4 +18,4 @@ Extended features include:
 
 This was built as a 1-day project while learning pygame including the additional features.
 
-# SCREENSHOTS:
+# Screenshots:
