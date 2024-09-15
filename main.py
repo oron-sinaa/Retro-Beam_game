@@ -300,6 +300,7 @@ def game():
             main_menu()
 
 def main_menu():
+    # Set game title using set_caption
     pygame.display.set_caption("Retro Beam - Menu")
     
     clock = pygame.time.Clock()
