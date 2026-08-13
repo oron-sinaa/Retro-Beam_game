@@ -22,6 +22,7 @@ WIDTH, HEIGHT = 800, 600
 WIN = pygame.display.set_mode((WIDTH, HEIGHT), pygame.FULLSCREEN)
 pygame.display.set_caption("Retro Beam")
 
+# waah what a comment
 SPACE_IMG = pygame.transform.scale(pygame.image.load(os.path.join("Assets","space.jpg")), (WIDTH, HEIGHT))
 SPACE_MENU_IMG = pygame.transform.scale(pygame.image.load(os.path.join("Assets","menu.jpg")), (WIDTH, HEIGHT))
 
