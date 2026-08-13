@@ -30,3 +30,4 @@ This was built as a 1-day project while learning pygame including the additional
 <img alt="alt_text" width="400px" src="https://github.com/oron-sinaa/Retro-Beam_game/blob/main/Screenshots/Screenshot%20(5).png" />
 
 New line
+New line 2
